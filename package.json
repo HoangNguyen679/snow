@@ -1,5 +1,5 @@
 {
-  "name": "snow",
+  "name": "snow-varus",
   "version": "0.0.1",
   "description": "Implement equation evaluate by stack with fraction support",
   "main": "./bin/app.js",
